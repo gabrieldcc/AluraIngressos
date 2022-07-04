@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.1)
+  - CPF-CNPJ-Validator (1.0.2)
+  - CreditCardValidator (0.5.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - CPF-CNPJ-Validator
+  - CreditCardValidator (~> 0.5.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CPF-CNPJ-Validator
+    - CreditCardValidator
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  CPF-CNPJ-Validator: 0b08069595da2c4b20e964b743bfc0a7334d5347
+  CreditCardValidator: 8306e89b1092e03a146c1bd40943cff09e816772
+
+PODFILE CHECKSUM: 6ba0ef27834aa7c5c583318d8ddc2e0f42a3b215
+
+COCOAPODS: 1.11.3
